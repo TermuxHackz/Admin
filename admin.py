@@ -1,6 +1,4 @@
 import os
-import colored
-import termcolor
 import sys
 import urllib2
 import time
